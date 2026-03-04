@@ -1,0 +1,2 @@
+# rag-project
+建置本地RAG服務，整合Qdrant向量資料庫、Jina或BGE等多種Embedding模型切換機制，並支援OCR處理掃描型PDF。透過Scope隔離設計，確保多使用者與多檔案情境下資料不混淆，適用計畫評析與文件整理應用。
