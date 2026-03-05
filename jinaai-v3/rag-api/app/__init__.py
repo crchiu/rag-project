@@ -1,0 +1,1 @@
+# empty init for module execution: python -m app.prefetch
